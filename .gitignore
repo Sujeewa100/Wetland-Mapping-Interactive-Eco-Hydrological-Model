@@ -1,0 +1,12 @@
+# ArcGIS Locks & Temp Files
+*.lock
+*.sr.lock
+*.tmp
+*.TMP
+
+# Windows Thumbnails
+Thumbs.db
+desktop.ini
+
+# Large cache directories
+*.gdb/*.lock
